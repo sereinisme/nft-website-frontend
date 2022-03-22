@@ -1,16 +1,8 @@
-<<<<<<< HEAD
-import gsap from 'gsap';
-import ScrollTrigger from 'gsap/ScrollTrigger';
-import React, { useLayoutEffect, useRef } from 'react'
-import styled from 'styled-components'
-import Vector from '../Icons/Vector';
-=======
 import React, { useRef, useLayoutEffect } from "react";
 import styled from "styled-components";
 import gsap from "gsap";
 import ScrollTrigger from "gsap/ScrollTrigger";
 import Vector from "../Icons/Vector";
->>>>>>> f003191df1483994b2be60ffb1e50bc91919ab44
 
 const VectorContainer = styled.div`
   position: absolute;
