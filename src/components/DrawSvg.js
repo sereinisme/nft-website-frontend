@@ -1,11 +1,17 @@
+<<<<<<< HEAD
 //head
 import gsap from 'gsap';
 import ScrollTrigger from 'gsap/ScrollTrigger';
+=======
+>>>>>>> 06da199059b9980e75b628a645a56e2ded474ddc
 import React, { useRef, useLayoutEffect } from "react";
 import styled from "styled-components";
 import { keyframes } from 'styled-components';
 import Vector from "../Icons/Vector";
+<<<<<<< HEAD
 //>>>>>>> f003191df1483994b2be60ffb1e50bc91919ab44
+=======
+>>>>>>> 06da199059b9980e75b628a645a56e2ded474ddc
 
 const VectorContainer = styled.div`
   position: absolute;
