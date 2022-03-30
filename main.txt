@@ -11,6 +11,6 @@ ALIF : 00:41:34
 <<<<<<< HEAD
 BERHASIL
 =======
-RIZKI : roadmap done-
+RIZKI : test remote
 >>>>>>> c02ccb86f9ee3912cec31e02453d43905776ca5a
 >>>>>>> Home Section
